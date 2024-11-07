@@ -1,0 +1,26 @@
+{
+  "id": "annual-leave/management",
+  "title": "연차 정보 등록/수정/확인하기",
+  "description": "📅 사용자가 전자결재에서 연차를 사용하고 조회하는 방법은 연차휴가 작성하기를 참고하세요.",
+  "source": "@site/docs/annual-leave/management.md",
+  "sourceDirName": "annual-leave",
+  "slug": "/annual-leave/management",
+  "permalink": "/guide-admin/annual-leave/management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "위젯 링크 관리하기",
+    "permalink": "/guide-admin/sns/widget"
+  },
+  "next": {
+    "title": "연차 내역 조회하기",
+    "permalink": "/guide-admin/annual-leave/history"
+  }
+}

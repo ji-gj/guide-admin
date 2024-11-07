@@ -1,0 +1,26 @@
+{
+  "id": "organization/set-manager",
+  "title": "관리자 권한 부여하기",
+  "description": "관리자 권한 부여하기",
+  "source": "@site/docs/organization/set-manager.md",
+  "sourceDirName": "organization",
+  "slug": "/organization/set-manager",
+  "permalink": "/guide-admin/organization/set-manager",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "조직 및 사용자 일괄 등록하기",
+    "permalink": "/guide-admin/organization/bulk-add-member"
+  },
+  "next": {
+    "title": "사용자 겸직 관리",
+    "permalink": "/guide-admin/organization/concurrent-position"
+  }
+}

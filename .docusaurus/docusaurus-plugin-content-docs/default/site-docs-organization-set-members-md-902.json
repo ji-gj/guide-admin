@@ -1,0 +1,26 @@
+{
+  "id": "organization/set-members",
+  "title": "사용자 관리 알아보기",
+  "description": "사용자 관리",
+  "source": "@site/docs/organization/set-members.md",
+  "sourceDirName": "organization",
+  "slug": "/organization/set-members",
+  "permalink": "/guide-admin/organization/set-members",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "조직 생성 및 삭제/사용자 조직 변경",
+    "permalink": "/guide-admin/organization/set-organization"
+  },
+  "next": {
+    "title": "사용자 추가 및 관리",
+    "permalink": "/guide-admin/organization/add-members"
+  }
+}

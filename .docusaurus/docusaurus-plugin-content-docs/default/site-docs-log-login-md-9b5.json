@@ -1,0 +1,26 @@
+{
+  "id": "log/login",
+  "title": "로그인 로그",
+  "description": "로그인 기록 확인하기",
+  "source": "@site/docs/log/login.md",
+  "sourceDirName": "log",
+  "slug": "/log/login",
+  "permalink": "/guide-admin/log/login",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "자동 결제 내역",
+    "permalink": "/guide-admin/payment/history"
+  },
+  "next": {
+    "title": "이메일 연결하기",
+    "permalink": "/guide-admin/link/email"
+  }
+}

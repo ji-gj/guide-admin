@@ -1,0 +1,26 @@
+{
+  "id": "popup/add",
+  "title": "사이트에 팝업 등록하기",
+  "description": "팝업 관리",
+  "source": "@site/docs/popup/add.md",
+  "sourceDirName": "popup",
+  "slug": "/popup/add",
+  "permalink": "/guide-admin/popup/add",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "사용자 통계",
+    "permalink": "/guide-admin/statistics/user"
+  },
+  "next": {
+    "title": "이용료 자동 결제 관리하기",
+    "permalink": "/guide-admin/payment/management"
+  }
+}

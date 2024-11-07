@@ -1,0 +1,26 @@
+{
+  "id": "faq/account",
+  "title": "계정 관련",
+  "description": "사용자를 추가 생성하고 싶어요.",
+  "source": "@site/docs/faq/account.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/account",
+  "permalink": "/guide-admin/faq/account",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "HRM",
+    "permalink": "/guide-admin/link/hrm"
+  },
+  "next": {
+    "title": "조직 관련",
+    "permalink": "/guide-admin/faq/organization"
+  }
+}

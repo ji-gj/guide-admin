@@ -1,0 +1,26 @@
+{
+  "id": "payment/management",
+  "title": "이용료 자동 결제 관리하기",
+  "description": "카드로 자동 결제 등록하기",
+  "source": "@site/docs/payment/management.md",
+  "sourceDirName": "payment",
+  "slug": "/payment/management",
+  "permalink": "/guide-admin/payment/management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "사이트에 팝업 등록하기",
+    "permalink": "/guide-admin/popup/add"
+  },
+  "next": {
+    "title": "자동 결제 내역",
+    "permalink": "/guide-admin/payment/history"
+  }
+}

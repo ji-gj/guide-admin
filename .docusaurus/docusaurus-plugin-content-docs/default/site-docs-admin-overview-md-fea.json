@@ -1,0 +1,26 @@
+{
+  "id": "admin/overview",
+  "title": "관리자메뉴 알아보기",
+  "description": "관리자메뉴 접속하기",
+  "source": "@site/docs/admin/overview.md",
+  "sourceDirName": "admin",
+  "slug": "/admin/overview",
+  "permalink": "/guide-admin/admin/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "우리회사 사이트 오픈하기",
+    "permalink": "/guide-admin/"
+  },
+  "next": {
+    "title": "사이트 통계(대시보드) 확인하기",
+    "permalink": "/guide-admin/dashboard/"
+  }
+}

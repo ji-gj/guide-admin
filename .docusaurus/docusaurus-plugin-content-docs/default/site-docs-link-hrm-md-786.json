@@ -1,0 +1,26 @@
+{
+  "id": "link/hrm",
+  "title": "HRM",
+  "description": "5240 사용자 도움말",
+  "source": "@site/docs/link/hrm.md",
+  "sourceDirName": "link",
+  "slug": "/link/hrm",
+  "permalink": "/guide-admin/link/hrm",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "이메일 연결하기",
+    "permalink": "/guide-admin/link/email"
+  },
+  "next": {
+    "title": "계정 관련",
+    "permalink": "/guide-admin/faq/account"
+  }
+}

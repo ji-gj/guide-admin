@@ -1,0 +1,26 @@
+{
+  "id": "sns/posts",
+  "title": "게시물 확인/삭제/저장하기",
+  "description": "게시물 관리하기",
+  "source": "@site/docs/sns/posts.md",
+  "sourceDirName": "sns",
+  "slug": "/sns/posts",
+  "permalink": "/guide-admin/sns/posts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "커뮤니티 관리하기",
+    "permalink": "/guide-admin/sns/community"
+  },
+  "next": {
+    "title": "신고된 게시물 확인/삭제하기",
+    "permalink": "/guide-admin/sns/accusation"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "organization/bulk-add-member",
+  "title": "조직 및 사용자 일괄 등록하기",
+  "description": "조직 및 사용자 일괄 등록하기",
+  "source": "@site/docs/organization/bulk-add-member.md",
+  "sourceDirName": "organization",
+  "slug": "/organization/bulk-add-member",
+  "permalink": "/guide-admin/organization/bulk-add-member",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "사용자 추가 및 관리",
+    "permalink": "/guide-admin/organization/add-members"
+  },
+  "next": {
+    "title": "관리자 권한 부여하기",
+    "permalink": "/guide-admin/organization/set-manager"
+  }
+}

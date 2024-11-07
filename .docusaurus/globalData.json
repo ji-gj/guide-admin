@@ -1,0 +1,223 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/guide-admin/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/guide-admin/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "admin/overview",
+              "path": "/guide-admin/admin/overview",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "annual-leave/history",
+              "path": "/guide-admin/annual-leave/history",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "annual-leave/link-community",
+              "path": "/guide-admin/annual-leave/link-community",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "annual-leave/link-e-approval",
+              "path": "/guide-admin/annual-leave/link-e-approval",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "annual-leave/management",
+              "path": "/guide-admin/annual-leave/management",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "auth/role",
+              "path": "/guide-admin/auth/role",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "dashboard/dashboard",
+              "path": "/guide-admin/dashboard/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "exception/access-control",
+              "path": "/guide-admin/exception/access-control",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "exception/external-user",
+              "path": "/guide-admin/exception/external-user",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "faq/account",
+              "path": "/guide-admin/faq/account",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "faq/community",
+              "path": "/guide-admin/faq/community",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "faq/e-approval",
+              "path": "/guide-admin/faq/e-approval",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "faq/email",
+              "path": "/guide-admin/faq/email",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "faq/messenger",
+              "path": "/guide-admin/faq/messenger",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "faq/organization",
+              "path": "/guide-admin/faq/organization",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "faq/payment",
+              "path": "/guide-admin/faq/payment",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/guide-admin/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "link/email",
+              "path": "/guide-admin/link/email",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "link/hrm",
+              "path": "/guide-admin/link/hrm",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "log/login",
+              "path": "/guide-admin/log/login",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "menu/change-order",
+              "path": "/guide-admin/menu/change-order",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "organization/add-members",
+              "path": "/guide-admin/organization/add-members",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "organization/bulk-add-member",
+              "path": "/guide-admin/organization/bulk-add-member",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "organization/concurrent-position",
+              "path": "/guide-admin/organization/concurrent-position",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "organization/overview",
+              "path": "/guide-admin/organization/overview",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "organization/set-manager",
+              "path": "/guide-admin/organization/set-manager",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "organization/set-members",
+              "path": "/guide-admin/organization/set-members",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "organization/set-organization",
+              "path": "/guide-admin/organization/set-organization",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "organization/sort-position",
+              "path": "/guide-admin/organization/sort-position",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "payment/history",
+              "path": "/guide-admin/payment/history",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "payment/management",
+              "path": "/guide-admin/payment/management",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "popup/add",
+              "path": "/guide-admin/popup/add",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "site/configuration",
+              "path": "/guide-admin/site/configuration",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "sns/accusation",
+              "path": "/guide-admin/sns/accusation",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "sns/community",
+              "path": "/guide-admin/sns/community",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "sns/posts",
+              "path": "/guide-admin/sns/posts",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "sns/widget",
+              "path": "/guide-admin/sns/widget",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "statistics/history",
+              "path": "/guide-admin/statistics/history",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "statistics/user",
+              "path": "/guide-admin/statistics/user",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/guide-admin/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": false
+    }
+  }
+}

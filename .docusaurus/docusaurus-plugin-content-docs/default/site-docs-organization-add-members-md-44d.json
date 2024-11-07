@@ -1,0 +1,26 @@
+{
+  "id": "organization/add-members",
+  "title": "사용자 추가 및 관리",
+  "description": "사용자 추가",
+  "source": "@site/docs/organization/add-members.md",
+  "sourceDirName": "organization",
+  "slug": "/organization/add-members",
+  "permalink": "/guide-admin/organization/add-members",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "사용자 관리 알아보기",
+    "permalink": "/guide-admin/organization/set-members"
+  },
+  "next": {
+    "title": "조직 및 사용자 일괄 등록하기",
+    "permalink": "/guide-admin/organization/bulk-add-member"
+  }
+}

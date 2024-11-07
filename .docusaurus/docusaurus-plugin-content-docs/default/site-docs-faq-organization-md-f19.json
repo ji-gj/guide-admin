@@ -1,0 +1,26 @@
+{
+  "id": "faq/organization",
+  "title": "조직 관련",
+  "description": "조직 변경/추가/삭제하고 싶어요.",
+  "source": "@site/docs/faq/organization.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/organization",
+  "permalink": "/guide-admin/faq/organization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "계정 관련",
+    "permalink": "/guide-admin/faq/account"
+  },
+  "next": {
+    "title": "이메일 관련",
+    "permalink": "/guide-admin/faq/email"
+  }
+}

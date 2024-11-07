@@ -1,0 +1,26 @@
+{
+  "id": "annual-leave/link-community",
+  "title": "연차-커뮤니티 연동하기",
+  "description": "연차-커뮤니티 연동하기",
+  "source": "@site/docs/annual-leave/link-community.md",
+  "sourceDirName": "annual-leave",
+  "slug": "/annual-leave/link-community",
+  "permalink": "/guide-admin/annual-leave/link-community",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "연차-휴가신청서(전자결재) 연동하기",
+    "permalink": "/guide-admin/annual-leave/link-e-approval"
+  },
+  "next": {
+    "title": "WORKS 접근제어",
+    "permalink": "/guide-admin/exception/access-control"
+  }
+}

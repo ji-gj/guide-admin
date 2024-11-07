@@ -1,0 +1,26 @@
+{
+  "id": "faq/messenger",
+  "title": "피드/채팅 관련",
+  "description": "사내 채팅 기록을 삭제하고 싶어요.",
+  "source": "@site/docs/faq/messenger.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/messenger",
+  "permalink": "/guide-admin/faq/messenger",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "커뮤니티 관련",
+    "permalink": "/guide-admin/faq/community"
+  },
+  "next": {
+    "title": "계약/결제 관련 문의",
+    "permalink": "/guide-admin/faq/payment"
+  }
+}

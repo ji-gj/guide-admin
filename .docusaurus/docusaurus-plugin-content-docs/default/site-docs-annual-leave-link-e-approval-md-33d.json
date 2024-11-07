@@ -1,0 +1,26 @@
+{
+  "id": "annual-leave/link-e-approval",
+  "title": "연차-휴가신청서(전자결재) 연동하기",
+  "description": "연차-전자결재 연동하기",
+  "source": "@site/docs/annual-leave/link-e-approval.md",
+  "sourceDirName": "annual-leave",
+  "slug": "/annual-leave/link-e-approval",
+  "permalink": "/guide-admin/annual-leave/link-e-approval",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "연차 내역 조회하기",
+    "permalink": "/guide-admin/annual-leave/history"
+  },
+  "next": {
+    "title": "연차-커뮤니티 연동하기",
+    "permalink": "/guide-admin/annual-leave/link-community"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "organization/concurrent-position",
+  "title": "사용자 겸직 관리",
+  "description": "겸직 관리하기",
+  "source": "@site/docs/organization/concurrent-position.md",
+  "sourceDirName": "organization",
+  "slug": "/organization/concurrent-position",
+  "permalink": "/guide-admin/organization/concurrent-position",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "관리자 권한 부여하기",
+    "permalink": "/guide-admin/organization/set-manager"
+  },
+  "next": {
+    "title": "직책 및 직위 정렬하기",
+    "permalink": "/guide-admin/organization/sort-position"
+  }
+}

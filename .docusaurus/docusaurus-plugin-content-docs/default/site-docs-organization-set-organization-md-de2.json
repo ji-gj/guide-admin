@@ -1,0 +1,26 @@
+{
+  "id": "organization/set-organization",
+  "title": "조직 생성 및 삭제/사용자 조직 변경",
+  "description": "조직 생성/변경/삭제하기",
+  "source": "@site/docs/organization/set-organization.md",
+  "sourceDirName": "organization",
+  "slug": "/organization/set-organization",
+  "permalink": "/guide-admin/organization/set-organization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "조직 관리 알아보기",
+    "permalink": "/guide-admin/organization/overview"
+  },
+  "next": {
+    "title": "사용자 관리 알아보기",
+    "permalink": "/guide-admin/organization/set-members"
+  }
+}

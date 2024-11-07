@@ -1,0 +1,26 @@
+{
+  "id": "statistics/user",
+  "title": "사용자 통계",
+  "description": "사용자 통계",
+  "source": "@site/docs/statistics/user.md",
+  "sourceDirName": "statistics",
+  "slug": "/statistics/user",
+  "permalink": "/guide-admin/statistics/user",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "접속자 현황",
+    "permalink": "/guide-admin/statistics/history"
+  },
+  "next": {
+    "title": "사이트에 팝업 등록하기",
+    "permalink": "/guide-admin/popup/add"
+  }
+}

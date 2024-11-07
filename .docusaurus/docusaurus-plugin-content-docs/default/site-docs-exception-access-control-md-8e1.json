@@ -1,0 +1,26 @@
+{
+  "id": "exception/access-control",
+  "title": "WORKS 접근제어",
+  "description": "WORKS 접근제어",
+  "source": "@site/docs/exception/access-control.md",
+  "sourceDirName": "exception",
+  "slug": "/exception/access-control",
+  "permalink": "/guide-admin/exception/access-control",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "연차-커뮤니티 연동하기",
+    "permalink": "/guide-admin/annual-leave/link-community"
+  },
+  "next": {
+    "title": "외부 사용자 이메일 사용 관리하기",
+    "permalink": "/guide-admin/exception/external-user"
+  }
+}

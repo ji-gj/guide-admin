@@ -1,0 +1,26 @@
+{
+  "id": "faq/payment",
+  "title": "계약/결제 관련 문의",
+  "description": "계약 기간이 어떻게 되나요?",
+  "source": "@site/docs/faq/payment.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/payment",
+  "permalink": "/guide-admin/faq/payment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "피드/채팅 관련",
+    "permalink": "/guide-admin/faq/messenger"
+  },
+  "next": {
+    "title": "전자결재 관련",
+    "permalink": "/guide-admin/faq/e-approval"
+  }
+}

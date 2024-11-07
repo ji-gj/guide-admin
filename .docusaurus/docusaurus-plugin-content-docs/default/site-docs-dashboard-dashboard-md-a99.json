@@ -1,0 +1,26 @@
+{
+  "id": "dashboard/dashboard",
+  "title": "사이트 통계(대시보드) 확인하기",
+  "description": "대시보드",
+  "source": "@site/docs/dashboard/dashboard.md",
+  "sourceDirName": "dashboard",
+  "slug": "/dashboard/",
+  "permalink": "/guide-admin/dashboard/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "관리자메뉴 알아보기",
+    "permalink": "/guide-admin/admin/overview"
+  },
+  "next": {
+    "title": "사이트 정보 변경/설정하기",
+    "permalink": "/guide-admin/site/configuration"
+  }
+}

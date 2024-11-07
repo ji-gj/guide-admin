@@ -1,0 +1,26 @@
+{
+  "id": "sns/community",
+  "title": "커뮤니티 관리하기",
+  "description": "커뮤니티 관리",
+  "source": "@site/docs/sns/community.md",
+  "sourceDirName": "sns",
+  "slug": "/sns/community",
+  "permalink": "/guide-admin/sns/community",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "직책 및 직위 정렬하기",
+    "permalink": "/guide-admin/organization/sort-position"
+  },
+  "next": {
+    "title": "게시물 확인/삭제/저장하기",
+    "permalink": "/guide-admin/sns/posts"
+  }
+}

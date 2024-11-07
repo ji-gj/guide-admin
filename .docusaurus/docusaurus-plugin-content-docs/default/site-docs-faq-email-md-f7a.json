@@ -1,0 +1,26 @@
+{
+  "id": "faq/email",
+  "title": "이메일 관련",
+  "description": "사용자 추가 등록하였는데, 이메일(전자결재) 접속이 되지 않아요.",
+  "source": "@site/docs/faq/email.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/email",
+  "permalink": "/guide-admin/faq/email",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "조직 관련",
+    "permalink": "/guide-admin/faq/organization"
+  },
+  "next": {
+    "title": "커뮤니티 관련",
+    "permalink": "/guide-admin/faq/community"
+  }
+}

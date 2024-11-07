@@ -1,0 +1,26 @@
+{
+  "id": "faq/community",
+  "title": "커뮤니티 관련",
+  "description": "공지 커뮤니티와 일반 커뮤니티 차이를 알고 싶어요.",
+  "source": "@site/docs/faq/community.md",
+  "sourceDirName": "faq",
+  "slug": "/faq/community",
+  "permalink": "/guide-admin/faq/community",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "이메일 관련",
+    "permalink": "/guide-admin/faq/email"
+  },
+  "next": {
+    "title": "피드/채팅 관련",
+    "permalink": "/guide-admin/faq/messenger"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "payment/history",
+  "title": "자동 결제 내역",
+  "description": "자동 결제 내역 확인하는 방법",
+  "source": "@site/docs/payment/history.md",
+  "sourceDirName": "payment",
+  "slug": "/payment/history",
+  "permalink": "/guide-admin/payment/history",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "이용료 자동 결제 관리하기",
+    "permalink": "/guide-admin/payment/management"
+  },
+  "next": {
+    "title": "로그인 로그",
+    "permalink": "/guide-admin/log/login"
+  }
+}
