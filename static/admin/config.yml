@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: master
+  branch: main
   repo: ji-gj/guide-admin
 
 # These lines should *not* be indented
