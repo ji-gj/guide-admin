@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/guide-admin/__docusaurus/debug',
+    component: ComponentCreator('/guide-admin/__docusaurus/debug', 'e0e'),
+    exact: true
+  },
+  {
+    path: '/guide-admin/__docusaurus/debug/config',
+    component: ComponentCreator('/guide-admin/__docusaurus/debug/config', '431'),
+    exact: true
+  },
+  {
+    path: '/guide-admin/__docusaurus/debug/content',
+    component: ComponentCreator('/guide-admin/__docusaurus/debug/content', '410'),
+    exact: true
+  },
+  {
+    path: '/guide-admin/__docusaurus/debug/globalData',
+    component: ComponentCreator('/guide-admin/__docusaurus/debug/globalData', '84d'),
+    exact: true
+  },
+  {
+    path: '/guide-admin/__docusaurus/debug/metadata',
+    component: ComponentCreator('/guide-admin/__docusaurus/debug/metadata', '20d'),
+    exact: true
+  },
+  {
+    path: '/guide-admin/__docusaurus/debug/registry',
+    component: ComponentCreator('/guide-admin/__docusaurus/debug/registry', '2e8'),
+    exact: true
+  },
+  {
+    path: '/guide-admin/__docusaurus/debug/routes',
+    component: ComponentCreator('/guide-admin/__docusaurus/debug/routes', '991'),
+    exact: true
+  },
+  {
     path: '/guide-admin/markdown-page',
     component: ComponentCreator('/guide-admin/markdown-page', '6d4'),
     exact: true
