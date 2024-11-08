@@ -20,7 +20,7 @@ sidebar_position: 1
 - **[권한 관리](../auth/role.md):** 사용자에게 관리자메뉴의 접근 권한을 부여합니다.
     - **권한 그룹/멤버/롤 관리:** 그룹별로 접근권한을 제어합니다.
 - **조직/사용자 관리:** 회사에 구성된 조직,사용자를 설정,변경 할 수 있습니다.
-    - **[조직 관리](../organization/overfiew.md):** 조직도를 수정 및 관리할 수 있습니다
+    - **[조직 관리](../organization/overview.md):** 조직도를 수정 및 관리할 수 있습니다
     - **[사용자 관리](../organization/set-members.md):** 사용자를 추가/삭제할 수 있습니다.
     - **[겸직 관리](../organization/concurrent-position.md):** 사용자를 겸직으로 설정할  수 있습니다.
     - **[일괄 등록(조직,사용자)](../organization/bulk-add-member.md):** 조직,사용자를 일괄 등록할 수 있습니다
